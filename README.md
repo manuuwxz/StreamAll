@@ -8,14 +8,6 @@
   <strong>Uma plataforma multimídia unificada para Filmes, Séries, Livros e Músicas.</strong>
 </p>
 
-<p align="center">
-  <a href="#-sobre">Sobre</a> •
-  <a href="#-funcionalidades">Funcionalidades</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-como-executar">Como Executar</a> •
-  <a href="#-autor">Autor</a>
-</p>
-
 ---
 
 ## 🚀 Sobre
