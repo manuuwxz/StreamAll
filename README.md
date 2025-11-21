@@ -1,7 +1,7 @@
 # <p align="center">StreamAll</p>
 
 <p align="center">
-  <img src="assets/logo.png" alt="StreamAll Logo" width="200"/>
+  <img src="imgs/logo png.png" alt="StreamAll Logo" width="200"/>
 </p>
 
 <p align="center">
