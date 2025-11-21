@@ -127,8 +127,8 @@ HEX: #9E8BFF
 RGB: 158, 139, 255
 
 <br>
-<p align="center">
-  <img src="Documentação/paleta_streamall.png" alt="Paleta de Cores do Projeto" width="500px">
+<p align="left">
+  <img src="Documentação/paleta_streamall.png" alt="Paleta de Cores do Projeto" width="300px">
 </p>
 <br>
 
