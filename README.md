@@ -126,6 +126,12 @@ HEX: #9E8BFF
 
 RGB: 158, 139, 255
 
+<br>
+<p align="center">
+  <img src="Documentação/paleta_streamall.png" alt="Paleta de Cores do Projeto" width="700px">
+</p>
+<br>
+
 📝 Licença
 Este projeto está sob a licença MIT.
 
